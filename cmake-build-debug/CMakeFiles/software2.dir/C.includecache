@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Desktop/software2/linktable.h
+
+C:/Users/admin/Desktop/software2/menu.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+linktable.h
+C:/Users/admin/Desktop/software2/linktable.h
+menu.h
+C:/Users/admin/Desktop/software2/menu.h
+
+C:/Users/admin/Desktop/software2/menu.h
+
